@@ -1817,9 +1817,9 @@ th.hide-for-touch {
       .top-bar-section ul li > a.button:hover {
         background: #090909; }
     .top-bar-section ul li > a.button.secondary {
-      background: #f06819; }
+      background: #362f6a; }
       .top-bar-section ul li > a.button.secondary:hover {
-        background: #c9520d; }
+        background: #433156; }
     .top-bar-section ul li > a.button.success {
       background: #5da423; }
       .top-bar-section ul li > a.button.success:hover {
@@ -3829,6 +3829,11 @@ margin-bottom:18px;
   color: #fff;
 }
 
+.speakerList h6 {
+  text-align: center;
+  color: #fff;
+}
+
 .speakerList .header h2{
   color: #fff;
   font-family: "Open Sans", sans-serif;
@@ -3914,7 +3919,7 @@ margin-bottom:18px;
     font-size: 0.85em;
     margin: 1em 0 0 0; }
   #intro .countdown h4 {
-    color: #f06819;
+    color: #362f6a;
     text-transform: capitalize; }
   #intro .countdown .date p {
     -webkit-animation: fadeInDown 1s 1s ease both;
@@ -4015,8 +4020,8 @@ margin-bottom:18px;
         -webkit-transition: background-color 300ms ease-out;
         -moz-transition: background-color 300ms ease-out;
         transition: background-color 300ms ease-out;
-        background-color: #f06819;
-        border-color: #c9520d;
+        background-color: #362f6a;
+        border-color: #433156;
         color: white;
         -webkit-border-radius: 3px;
         border-radius: 3px;
@@ -4024,7 +4029,7 @@ margin-bottom:18px;
         padding: 0.25em;
         margin-bottom: 0.25em; }
         #intro .actions a h4:hover, #intro .actions a h4:focus {
-          background-color: #c9520d; }
+          background-color: #362f6a; }
         #intro .actions a h4:hover, #intro .actions a h4:focus {
           color: white; }
       @media only screen and (max-width: 768px) {
@@ -4036,10 +4041,10 @@ margin-bottom:18px;
 
 #agenda {
   color: #222222;
-  background: #FF8533 url(../img/white-bg-thatch.png); 
+  background: #43316b url(../img/white-bg-thatch.png);
 padding: 1.8rem 0;}
   #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
-    color: #222222; }
+    color: white; }
   #agenda a {
     color: black; }
     #agenda a:hover, #agenda a:active {
@@ -4108,15 +4113,15 @@ padding: 1.8rem 0;}
           top: 50%;
           margin-top: -1.5em; } }
     #agenda .timings .row:hover {
-      background-color: #f38749; }
+      background-color: #362f6a; }
 
 #location {
   color: #000;
-  background: #0097A7 url(../img/white-bg-thatch.png);
+  background: #43316b url(../img/white-bg-thatch.png);
   /*background-image: url(../img/dark-bg.jpg); */
 }
   #location h1, #location h2, #location h3, #location #archive .grid a .day, #archive .grid a #location .day, #location h4, #location h5, #location h6, #location #archive .grid a .month, #archive .grid a #location .month, #location .subheader, #location p, #location blockquote, #location a, #location small, #location #archive .grid a .year, #archive .grid a #location .year {
-    color: #000; }
+    color: white; }
   #location code, #location abbr, #location acronym {
     color: #d9d9d9; }
   #location .row {
@@ -4125,7 +4130,7 @@ padding: 1.8rem 0;}
     display: block;
     padding-bottom: 0.5em; }
   #location .address a {
-    color: #015624; }
+    color: #ffffff; }
   @media only screen and (min-width: 768px) {
     #location .address p {
       text-align: right; }
@@ -4261,7 +4266,7 @@ padding: 1.8rem 0;}
       #footer .row p a {
         color: #664d00; }
 a.link {
-  color:#FF8533 !important;
+  color:#43316b !important;
 }
 
 .freebirdFormviewerViewFormBanner {
