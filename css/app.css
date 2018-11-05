@@ -4046,7 +4046,7 @@ padding: 1.8rem 0;}
   #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
     color: white; }
   #agenda a {
-    color: black; }
+    color: white; }
     #agenda a:hover, #agenda a:active {
       color: #fad1ba; }
   #agenda code, #agenda abbr, #agenda acronym {
